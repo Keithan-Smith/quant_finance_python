@@ -1,2 +1,2 @@
 # quant_finance_python
-Repository of quantitative finance projects implemented via Python 
+Quantitative finance repository for projects implemented via C++
